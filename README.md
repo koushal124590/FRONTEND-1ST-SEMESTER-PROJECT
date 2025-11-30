@@ -1,2 +1,1 @@
-https://localhost:8443  
-node serve-https.js
+cmd /c "npx http-server -p 8080"
